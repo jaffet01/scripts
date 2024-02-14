@@ -1,0 +1,7 @@
+Usuari jcasas que pertany a la UO docents i correu electrònic jordi.casas@itb.cat
+Usuari mlopez que pertany a la UO administració i correu electrònic maria.lopez@itb.cat
+Usuari pgarcia que pertany a la UO docents i correu electrònic pablo.garcia@itb.cat
+Usuari srodriguez que pertany a la UO administració i correu electrònic sergio.rodriguez@itb.cat
+Usuari ecarbonell que pertany a la UO docents i correu electrònic eva.carbonell@itb.cat
+Usuari jmartinez que pertany a la UO administració i correu electrònic juan.martinez@itb.cat
+Usuari llara que pertany a la UO docents i correu electrònic laura.lara@itb.cat
